@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "321183518977",
+    "firebase_url": "https://intershala-89843-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "intershala-89843",
+    "storage_bucket": "intershala-89843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321183518977:android:9ef9c858d4d3cc63634b00",
+        "android_client_info": {
+          "package_name": "com.example.loginsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321183518977-nu8oa558o3rg9avicfid8sb2ft4c9b9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZH8axy0O7zpnTNK5i9mlMD1XS54okoCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321183518977-nu8oa558o3rg9avicfid8sb2ft4c9b9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
